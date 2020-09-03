@@ -2,5 +2,5 @@
 
 This is simple & casual but pretty calculator
 
-LINK: file:///C:/Users/Lemooon/Desktop/KursWebDev/Calculator/index.html
+LINK: https://miotaczwymiatacz.github.io/Calculator/
 
