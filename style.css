@@ -85,8 +85,8 @@ body {
 
 @media (orientation: landscape) and (min-width: 1024px) {
   .calculator {
-    grid-template-columns: repeat(4, 100px);
-    grid-template-rows: minmax(120px, auto) repeat(5, 100px);
+    grid-template-columns: repeat(4, 90px);
+    grid-template-rows: minmax(110px, auto) repeat(5, 90px);
   }
 
   .calculator>button {
